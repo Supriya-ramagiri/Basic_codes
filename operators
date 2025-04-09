@@ -1,0 +1,11 @@
+class Operator 
+{
+    public static void main(String[] args)
+    {
+        int a = 100;
+        char b = 'd';
+        string c = "true";
+        boolean d = true ;
+        System.out.println(a+b+c+d);
+    }
+}
